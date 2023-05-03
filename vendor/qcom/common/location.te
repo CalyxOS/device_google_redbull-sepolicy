@@ -13,10 +13,6 @@ hwbinder_use(location)
 # Enable standard network access (for XTRA download)
 net_domain(location)
 
-r_dir_file(location, sysfs_msm_subsys)
-r_dir_file(location, sysfs_soc)
-r_dir_file(location, sysfs_ssr)
-
 allow location hal_gnss_qti:unix_dgram_socket sendto;
 
 allow location location_data_file:dir create_dir_perms;

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e4a9a169_ecdbd188",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-05-03T21:28:02Z",
+      "side": 1,
+      "message": "User agent is reduced; does not include serial number, product identifier, or SOC information.\n\nTime-to-first-fix (TTFF) is still good with this.",
+      "revId": "1c9361aecd269d502cefa9d5ebc47a0354d192f0",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

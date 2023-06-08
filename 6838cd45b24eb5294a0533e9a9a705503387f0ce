@@ -16,6 +16,24 @@
       "message": "WfcActivation is still priv_app. I am missing something.\n\nThe cert is the same when I extract it using the helpful steps in this commit message, so that\u0027s not the problem.",
       "revId": "6838cd45b24eb5294a0533e9a9a705503387f0ce",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "333e24f1_925b6e28",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-06-08T22:45:22Z",
+      "side": 1,
+      "message": "With a lot of fiddly extraction/conversion of the signature for wfcactivation in `/product/etc/selinux/product_mac_permissions.xml`, I can confirm the old and incorrect signature is still being used. I\u0027m almost certainly missing something obvious.",
+      "parentUuid": "7b8c5717_170a2d62",
+      "revId": "6838cd45b24eb5294a0533e9a9a705503387f0ce",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

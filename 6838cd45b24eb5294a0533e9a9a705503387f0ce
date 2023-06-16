@@ -106,6 +106,24 @@
       "parentUuid": "58980f94_da0874cb",
       "revId": "6838cd45b24eb5294a0533e9a9a705503387f0ce",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5e74dc2b_4502227c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-06-16T14:02:52Z",
+      "side": 1,
+      "message": "\u003e_\u003c\n\nThis change seemed to work for me: https://review.calyxos.org/c/CalyxOS/platform_system_sepolicy/+/17657",
+      "parentUuid": "343602da_018f2c8a",
+      "revId": "6838cd45b24eb5294a0533e9a9a705503387f0ce",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

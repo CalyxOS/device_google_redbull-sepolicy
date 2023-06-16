@@ -88,6 +88,24 @@
       "parentUuid": "4a7249cd_ff059b6b",
       "revId": "6838cd45b24eb5294a0533e9a9a705503387f0ce",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "343602da_018f2c8a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000091
+      },
+      "writtenOn": "2023-06-16T01:56:42Z",
+      "side": 1,
+      "message": "or remove the ..mac_permissions.xml_intermediates in $OUT",
+      "parentUuid": "58980f94_da0874cb",
+      "revId": "6838cd45b24eb5294a0533e9a9a705503387f0ce",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
